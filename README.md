@@ -7,7 +7,7 @@
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
 ## Technologies Used: 
-Javascript, Node.js, Express 
+Javascript, Node.js, Express
 
 ## Screenshot
 ![screenshot](./public/heroku.png)
@@ -24,7 +24,7 @@ Javascript, Node.js, Express
 Download code to local computer and run npm install in console and then enter 'node server.js' to run application. 
 
 ### 2. Usage
-Once you install and run you go to localhost:2377 to run on your local machine and you have a note tacker.
+Once you install and run you go to localhost:3000 to run on your local machine and you have a note tacker.
 
 ### 3. License
 see below
